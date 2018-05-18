@@ -25,10 +25,10 @@ grid = [
 #2.Find the heightest product of adjecnt numbers in each column
 #3.Find the heighest product of adjecnt numbers in the diagonals
 
-maxRowProduct = 1
-maxColumnProduct = 1
-maxDiag1Product = 1
-maxDiag2Product = 1
+maxRowProduct = 0
+maxColumnProduct = 0
+maxDiag1Product = 0
+maxDiag2Product = 0
 
 for x in range(0,19):
     for y in range(0,19):
